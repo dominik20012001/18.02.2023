@@ -1,0 +1,45 @@
+*
+{
+    border: 0;
+    margin: 0;
+}
+body
+{
+    text-align: center;
+}
+#container
+{
+    text-align: left;
+    margin: 10px auto;    
+    width: 800px;
+}
+#top
+{
+    height: 50px;
+    border: 5px solid black;
+    text-align: center;
+}
+#menu
+{
+    float: left;
+    width: 75px;    
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    text-align: center;
+}
+#content
+{
+    float: left;
+    width: 724px;
+}
+#text
+{
+    padding: 10px;
+    line-height: 140%;
+    border: 1px solid black;   
+    border-top: none;
+}
+p
+{
+    margin-top: 10px;
+}
